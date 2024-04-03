@@ -19,3 +19,6 @@ Respositoty -- like a folder/container that stores files/folders related to a pr
 2. Remote Repository - coud-based platform or on a server
 
 -- initialize a folder
+
+git add . -- always add file before committing
+git commit -m -- git commit add
